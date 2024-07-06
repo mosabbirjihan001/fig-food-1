@@ -1,0 +1,21 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.whitebg{
+    background-image: linear-gradient(100% ,white,rgb(255, 252, 252));
+}
+.text{
+    background-image: url("/assets/social-bg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 430px;
+    flex-direction:column;
+    color: white;
+    padding: 0;
+    text-align: center;
+}
